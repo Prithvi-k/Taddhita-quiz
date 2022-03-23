@@ -9,6 +9,6 @@
 
 
 Online version (No download required):
-- Open in on [Colab](https://colab.research.google.com/drive/1dRpfd8b-PBAad594VE4IxjUBCxAGwahE?usp=sharing)
+- Open the online version on [Colab](https://colab.research.google.com/drive/1dRpfd8b-PBAad594VE4IxjUBCxAGwahE?usp=sharing)
 - Copy the file by clicking File > Save a copy in Drive
 - Once open, Click Runtime > Run all 
